@@ -1,6 +1,6 @@
 # filebeat
 
-cp filebeat.servicde to /usr/lib/systemd/system/
+cp filebeat.service to /usr/lib/systemd/system/
 
 and then
 
